@@ -1,0 +1,19 @@
+{
+  "name": "solo-project",
+  "version": "1.0.0",
+  "description": "Mario Arraya's first solo project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marioarraya/solo-project.git"
+  },
+  "author": "Mario Arraya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marioarraya/solo-project/issues"
+  },
+  "homepage": "https://github.com/marioarraya/solo-project#readme"
+}
